@@ -1,0 +1,24 @@
+Origin: debian-project
+Label: debian-project
+Suite: stable
+Codename: stable
+Components: main
+Architectures: arm64 amd64
+Date: Mon, 19 Jan 2026 12:00:32 +0000
+Date: Mon, 19 Jan 2026 12:00:32 +0000
+MD5Sum:
+ 6f81a869bf129029dd18848d8dea009d              196 Release
+ 3f2173b2da6fc39eed04cd285f9b6ec7              721 main/binary-arm64/Packages
+ eda83607d7224a162a8b967f5fb49c8d              522 main/binary-arm64/Packages.gz
+SHA1:
+ e3922584eeae16a09766affdc4a582b12c9a192a              196 Release
+ 265b43636d195820d520110396e36f5f6c5fbd79              721 main/binary-arm64/Packages
+ 83418e8bd32c0617dd9802fab35d48a13914b076              522 main/binary-arm64/Packages.gz
+SHA256:
+ 1a7b8e90e21614b994cf84362813f84ad6b513305081745410c21ed77e87f9d6              196 Release
+ 6211a0f1e9524813814070695f6d9e345c3cbfe414adbe8b99850729ae820158              721 main/binary-arm64/Packages
+ 25ff652b03ef63ffd69ddaed7015556ab46646fcff254a589abcfec7fb4b53a4              522 main/binary-arm64/Packages.gz
+SHA512:
+ 7e94a9118d730396a2a42a375d033983dd2464e2b7c33c9dfc417fe73d94677f19e7b42bf2b248dff8e113245438c15d70edda6ff72cb393466023c9845965f7              196 Release
+ 357ef841aca1efab6b6a5328acae332ec30ad602be1995e9f95a5760f15ef3048cd9ea67c0c9014df8ae80a7e44d2a6fa64088b6465bfc5938e7135ab18971c0              721 main/binary-arm64/Packages
+ e26c0d663609d51cdd36ba6734e27ff2df95beb6df53dc2810a4d52d869b5ce0ea6357c30ecff1f0d412e5e3d3c79a9fb613973753b68c63b527ab78630e20f9              522 main/binary-arm64/Packages.gz
