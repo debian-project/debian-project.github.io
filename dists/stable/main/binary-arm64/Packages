@@ -1,16 +1,16 @@
 Package: netspot-agent
 Architecture: arm64
-Version: 1.20
+Version: 1.21
 Priority: optional
 Section: utils
 Maintainer: Dev <dev@netspotapp.com>
 Depends: libc6
-Filename: pool/main/netspot-agent_1.20_arm64.deb
-Size: 18376
-MD5sum: ec89b5ce59431ff5d5999a92987e88b8
-SHA1: 35d9cc6c51f8cbc24f9d2425d5b5e12d2bb7a023
-SHA256: 9897216c7074c6ba8f2c56f49c2bbd87d81253d2dd8f7890bd4581cf44f73364
-SHA512: 6713e85eb31bd1470bb79950057b06f6cf65943318eb81cd777cc0046cee0cddb1c43abc107f9e8503ff4724d74652bc0c897cb3cec04f8cdd77c98d618d6d44
+Filename: pool/main/netspot-agent_1.21_arm64.deb
+Size: 18592
+MD5sum: 9f74a4727a6cf4ac1f695f1bb1f7d0be
+SHA1: fec1d71b521834306652bdd8b9b5e5d6573eb915
+SHA256: 7c2d474cd4163ac0dd29ba0e00b674c3c3068af072e0cf61783e08ba9c69eebd
+SHA512: adbb9afe7287779a8f0111f8eef3efea985b553a0d38611d25799353adf18051f82a03de43fd242fe82028ffb8cc4f4836c7f8a833a6eb6f8ad41632cd78d54a
 Description: Netspot agent for real-time Wi-Fi monitoring and network analysis.
  This agent collects wireless telemetry and provides diagnostic data 
  for Debian-based systems including WlanPi, Raspberry Pi, and Ubuntu.
